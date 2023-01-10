@@ -27,8 +27,8 @@ The density and RGB values determined using the DL model are used to reconstruct
 ## Output
 the model at 1/4th image quality and obtained the following outputs for 1700 and 5000 iteration:  
 * Ground Truth:  
-![](Assets/Images/)  
+![Ground Truth Image](Assets/Images/GroundTruth.png)  
 * After 1700 Iterations:  
-![](Assets/Images/)  
+![Output after 1700 iterations](Assets/Images/1700.png)  
 * After 5000 Iterations:  
-![](Assets/Images/)  
+![Output after 5000 iterations](Assets/Images/5000.png)  
